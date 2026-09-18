@@ -20,7 +20,7 @@
 	"disk_size": "50G",
 	"datastore": "local",
 	"datastore_type": "directory",
-	"iso": "local:iso/ubuntu-18.04.3-server-amd64.iso",
+	"iso": "local:iso/ubuntu-18.04.4-server-amd64.iso",
 
 	"boot_command_prefix": "<esc><esc><enter><wait>",
 	"preseed_file": "preseed.cfg"
